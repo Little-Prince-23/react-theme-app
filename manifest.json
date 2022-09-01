@@ -1,0 +1,25 @@
+{
+  "short_name": "Theme App React",
+  "name": "Theme App React",
+  "icons": [
+    {
+      "src": "https://media.istockphoto.com/vectors/day-night-switch-vector-icon-dark-mode-light-mode-switch-button-vector-id1226975128?k=20&m=1226975128&s=170667a&w=0&h=KZtb27tX3FsrEWKJGj5Uj3UCpUO1An9biKxwpwt_YoI=",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://media.istockphoto.com/vectors/day-night-switch-vector-icon-dark-mode-light-mode-switch-button-vector-id1226975128?k=20&m=1226975128&s=170667a&w=0&h=KZtb27tX3FsrEWKJGj5Uj3UCpUO1An9biKxwpwt_YoI=",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://media.istockphoto.com/vectors/day-night-switch-vector-icon-dark-mode-light-mode-switch-button-vector-id1226975128?k=20&m=1226975128&s=170667a&w=0&h=KZtb27tX3FsrEWKJGj5Uj3UCpUO1An9biKxwpwt_YoI=",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
